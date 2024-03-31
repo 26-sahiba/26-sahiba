@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @26-sahiba
-- 👀 I’m interested in cod
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning php,css,js,xml
 - 💞️ I’m looking to collaborate on frontend works
 - 📫 How to reach me sahibakathpal82982@gmail.com
